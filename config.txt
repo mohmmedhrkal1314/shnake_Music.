@@ -1,0 +1,6 @@
+owner=503924423993065473
+prefix=S
+game=|S play
+stayinchannel=true
+songinstatus=false
+token=NTY4MDc5MDQ0NTc1NDk0MTQ0.XLc42g.2zEkNQTnJHKTqhZn_ejemt4YLpA
